@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 // Copyright 2018 Miguel Rodriguez.
 // 
 // UdenarBot is distributed under the terms of the GNU Lesser General
@@ -25,6 +26,9 @@
 // distributed under the terms of the GNU Lesser General Public License
 // (LGPL) version 3), then updating it to be compatible with a later version
 // of BWAPI.
+=======
+
+>>>>>>> ab65e8e983037753c0987a9802b3e4d07cd8cb65
 #include "UdenarBot.h"
 #include <iostream>
 
